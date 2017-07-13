@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Notepad++ 7.4.2 new featurs/enhancements & bug-fixes:
 
 1.  Add SWIFT language support.

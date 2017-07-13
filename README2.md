@@ -21,5 +21,8 @@ Updater (Installer only):
 * WinGup v4.1
 
 양현우 SCSC 2nd
+<<<<<<< HEAD
 
 to rebase
+=======
+>>>>>>> 025bb20... branch1
