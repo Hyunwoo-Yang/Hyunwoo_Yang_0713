@@ -19,3 +19,5 @@ Included plugins:
 Updater (Installer only):
 
 * WinGup v4.1
+
+양현우 SCSC
